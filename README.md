@@ -9,6 +9,7 @@ The objective is to classify reviews as positive or negative using machine learn
 - IMDb Movie Reviews Dataset
 - 50,000 reviews
 - Binary sentiment classification
+- Dataset Source: https://www.kaggle.com/datasets/lakshmi25npathi/imdb-dataset-of-50k-movie-reviews
 
 ## Preprocessing
 - Stopword Removal
